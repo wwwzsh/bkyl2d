@@ -31,7 +31,7 @@
             "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
         },{
 		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/p/14905809.html']",
-		"text": ["你想知道我家主人是谁吗？", "这里有一些关于我家主人的秘密哦，要不要看看呢？", "发现主人出没地点！"]
+		"text": ["你想知道我家主人是谁吗？", "这里有一些关于我家主人的秘密哦，要不要看看呢？", "发现主人出没地点！","要联系主人吗，他人超好的。"]
 	}, {
 		"selector": ".menu-item-tags a",
 		"text": ["点击就可以看文章的标签啦！", "点击来查看所有标签哦。"]
@@ -63,6 +63,9 @@
 		"selector": ".cc-opacity, .post-copyright-author",
 		"text": ["要记得规范转载哦。", "所有文章均采用 CC BY-NC-SA 4.0 许可协议～", "转载前要先注意下文章的版权协议呢。"]
 	}, {
+		"selector": "a[href='https://creativecommons.org/licenses/by-nc-nd/4.0/']",
+		"text": ["要记得规范转载哦。", "所有文章均采用 CC BY-NC-SA 4.0 许可协议～", "转载前要先注意下文章的版权协议呢。"]
+	}, {
 		"selector": ".links-of-author",
 		"text": ["这里是主人的常驻地址哦。", "这里有主人的联系方式！"]
 	}, {
@@ -72,7 +75,7 @@
 		"selector": ".fancybox img, img.medium-zoom-image",
 		"text": ["点击图片可以放大呢！"]
 	}, {
-		"selector": ".copy-btn",
+		"selector": ".cnblogs_code_copy",
 		"text": ["代码可以直接点击复制哟。"]
 	}, {
 		"selector": ".highlight .table-container, .gist",
@@ -184,13 +187,13 @@
 		"text": ["点击这里可以回到主页哦。"]
 	}, {
 		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/p/14905863.html']",
-		"text": ["要给主人留言吗？"]
+		"text": ["要给主人留言吗？"，"期待您对主人说些什么呢~"]
 	}, {
 		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/p/14919196.html']",
 		"text": ["主人的朋友们人也都很好哦","要见一见主人的朋友吗"]
 	}, {
 		"selector": "a[href='https://i.cnblogs.com/settings']",
-		"text": ["点击这里可以进入博客园的管理页面"]
+		"text": ["这里游客请止步嗷~", "未满18岁禁止入内哦~"，"博客重地，禁止入内~"]
 	},  {
 		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/tag/']",
 		"text": ["点击这里可以查看博客的标签哦~"]
