@@ -31,7 +31,7 @@
             "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
         },{
 		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/p/14905809.html']",
-		"text": ["你想知道我家主人是谁吗？", "这里有一些关于我家主人的秘密哦，要不要看看呢？", "发现主人出没地点！"]
+		"text": ["你想知道我家主人是谁吗？(๑•̀ㅂ•́)و✧", "这里有一些关于我家主人的秘密哦，要不要看看呢？", "发现主人出没地点！"]
 	}, {
 		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/tag/']",
 		"text": ["点击就可以看文章的标签啦！", "点击来查看所有标签哦。"]
@@ -178,7 +178,7 @@
 		"text": ["评论没有审核，要对自己的发言负责哦～", "要提交了吗，请耐心等待回复哦～"]
 	}, {
 		"selector": ".vcontent",
-		"text": ["哇，快看看这个精彩评论！", "如果有疑问，请尽快留言哦～"]
+		"text": ["哇，快看看这个精彩评论！(๑•̀ㅂ•́)و✧", "如果有疑问，请尽快留言哦～"]
 	}, {
 		"selector": "a[href='https://msg.cnblogs.com/send/zhangshuhao1116']",
 		"text": ["要联系主人吗，他人超好的。"]
@@ -187,10 +187,7 @@
 		"text": ["点击这里可以回到主页哦。"]
 	}, {
 		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/p/14905863.html']",
-		"text": ["要给主人留言吗？"]
-	}, {
-		"selector": "a[href='https://i.cnblogs.com/']",
-		"text": ["点击这里可以进入博客园的管理页面"]
+		"text": ["要给主人留言吗？", "想对主人说些什么呢？~(๑•̀ㅂ•́)و✧"]
 	},  {
 		"selector": ".buryit",
 		"text": ["大傻春，你要干什么？！（ᗜ ‸ ᗜ）"]
@@ -243,8 +240,8 @@
 		"selector": "a[title='复制代码']",
 		"text": ["点击可以直接复制代码哦~"]
 	}, {
-		"selector": "a[href='https://www.cnblogs.com/lrplrplrp/gallery.html']",
-		"text": ["要看看主人的相册吗？"]
+		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/gallery.html']",
+		"text": ["要看看主人的相册吗？","主人的相册里面都是好东西呢~", "这是我家主人的胸相册(*´∇｀*)"]
 	},{
             "selector": ".content-wrap a[href^='http']",
             "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
