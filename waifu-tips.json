@@ -115,7 +115,7 @@
 		"text": ["这是我的支付宝哦！"]
 	}, {
 		"selector": ".poem-wrap",
-		"text": ["喜欢诗歌吗？","无端好客随春去，送酒吟诗一并愁。"]
+		"text": ["喜欢古诗词吗？","无端好客随春去，送酒吟诗一并愁。"]
 	}, {
 		"selector": "#needsharebutton-postbottom .btn",
 		"text": ["好东西要让更多人知道才行哦。", "觉得文章有帮助的话，可以分享给更多需要的朋友呢。"]
@@ -225,7 +225,7 @@
 		"selector": ".set_btn catalogue",
 		"text": ["点击可以打开侧边栏。"]
 	}, {
-		"selector": ".set_btn skin_btn",
+		"selector": ".set_btn .skin_btn",
 		"text": ["要更换主题颜色吗？"]
 	}, {
 		"selector": ".set_btn article_icon_btn comment",
@@ -312,10 +312,6 @@
             "text": ["要插入一个表情吗"]
         },
         {
-            "selector": "#btn_comment_submit",
-            "text": ["要提交了吗，评论可能需要审核，请耐心等待~"]
-        },
-        {
             "selector": ".ImageBox",
             "text": ["点击图片可以放大呢"]
         },
@@ -329,7 +325,7 @@
         },
         {
             "selector": "#htmer_time",
-            "text": ["已经过了这么久了呀，日子过得好快呢", "<span style=\"color:#0099cc;\">2021.5.19</span> 是多久来着…<br>1，2，3……有好多好多天呢！"]
+            "text": ["已经过了这么久了呀，日子过得好快呢", "<span style=\"color:#0099cc;\">2021年5月19日</span> 是多久来着…<br>1，2，3……有好多好多天呢！"]
         },
         {
             "selector": ".updatelog",
@@ -426,10 +422,6 @@
         {
             "selector": "#green_channel_follow",
             "text": ["好看的你，要不要关注一下同样好看的主人呢~~"]
-        },
-        {
-            "selector": "#poem_sentence",
-            "text": ["这句诗词有意境吧~~O(∩_∩)O~"]
         }
 	],
 	"click": [{
