@@ -30,7 +30,7 @@
             "selector": ".content-wrap a[href^='http']",
             "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
         },{
-		"selector": ".menu-item-about a",
+		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/p/14905809.html']",
 		"text": ["你想知道我家主人是谁吗？", "这里有一些关于我家主人的秘密哦，要不要看看呢？", "发现主人出没地点！"]
 	}, {
 		"selector": ".menu-item-tags a",
@@ -180,7 +180,7 @@
 		"selector": "a[href='https://msg.cnblogs.com/send/zhangshuhao1116']",
 		"text": ["要联系主人吗，他人超好的。"]
 	},  {
-		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116']",
+		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/']",
 		"text": ["点击这里可以回到主页哦。"]
 	}, {
 		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/p/14905863.html']",
@@ -189,20 +189,26 @@
 		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/p/14919196.html']",
 		"text": ["主人的朋友们人也都很好哦","要见一见主人的朋友吗"]
 	}, {
-		"selector": "a[href='https://i.cnblogs.com/']",
+		"selector": "a[href='https://i.cnblogs.com/settings']",
 		"text": ["点击这里可以进入博客园的管理页面"]
 	},  {
+		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/tag/']",
+		"text": ["点击这里可以查看博客的标签哦~"]
+	}, {
+		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/p/']",
+		"text": ["点击这里可以详细地查看博客所有的随笔哦~"]
+	},{
 		"selector": ".buryit",
-		"text": ["（ᗜ ‸ ᗜ）"]
+		"text": ["大傻春，你要干什么！！！（ᗜ ‸ ᗜ）"]
 	}, {
 		"selector": ".diggit",
-		"text": ["(☆▽☆)"]
+		"text": ["快给主人点个推荐吧～嘿嘿～|･ω･｀)"]
 	}, {
 		"selector": "#commentbox_opt_sub",
 		"text": ["欢迎订阅(๑•̀ㅂ•́)و✧"]
 	}, {
 		"selector": ".notice_title",
-		"text": ["这里是公告栏~"]
+		"text": ["这里是公告栏嗷~"]
 	}, {
 		"selector": "#player",
 		"text": ["点这里可以放歌哦","这里全是主人精心挑选的音乐哦","要放松一下心情吗"]
@@ -217,7 +223,7 @@
 		"text": ["浮云一别后，流水十年间。"]
 	}, {
 		"selector": ".medium-zoom-image",
-		"text": ["点击图片可以放大哦。"]
+		"text": ["点击图片可以变大嗷~"]
 	}, {
 		"selector": ".cnblogs-toc-button",
 		"text": ["点击这里打开导航目录。"]
@@ -243,7 +249,7 @@
 		"selector": "a[title='复制代码']",
 		"text": ["点击可以直接复制代码哦~"]
 	}, {
-		"selector": "a[href='https://www.cnblogs.com/lrplrplrp/gallery.html']",
+		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/gallery.html']",
 		"text": ["要看看主人的相册吗？"]
 	},{
             "selector": ".content-wrap a[href^='http']",
@@ -359,10 +365,7 @@
         },{
             "selector": ".waifu-tool .fui-info-circle",
             "text": ["想要知道更多有关我的事吗？"]
-        }, {
-            "selector": "#div_digg",
-            "text": ["快给主人点个推荐吧～嘿嘿～|･ω･｀)"]
-        }, {
+        },  {
             "selector": "#ubb_img",
             "text": ["这里是插入图片的地方嗷~~"]
         }, {
