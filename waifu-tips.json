@@ -241,7 +241,7 @@
 		"text": ["点击可以直接复制代码哦~"]
 	}, {
 		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/gallery.html']",
-		"text": ["要看看主人的相册吗？","主人的相册里面都是好东西呢~", "这是我家主人的胸相册(*´∇｀*)"]
+		"text": ["要看看主人的相册吗？","主人的相册里面都是好东西呢~", "这是我家主人的相册(*´∇｀*)"]
 	},{
             "selector": ".content-wrap a[href^='http']",
             "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
