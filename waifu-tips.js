@@ -85,7 +85,7 @@ function loadWidget(config) {
 			Live2D.captureFrame = true;
 		});
 		document.querySelector("#waifu-tool .fa-info-circle").addEventListener("click", () => {
-			open("https://github.com/stevenjoezhang/live2d-widget");
+			open("https://www.cnblogs.com/zhangshuhao1116/p/14912031.html");
 		});
 		document.querySelector("#waifu-tool .fa-times").addEventListener("click", () => {
 			localStorage.setItem("waifu-display", Date.now());
@@ -111,7 +111,7 @@ function loadWidget(config) {
  
 	(function welcomeMessage() {
 		let text;
-		if (location.pathname === "/lrplrplrp/"||location.pathname === "/lrplrplrp") { // 如果是主页，可在浏览器后台输入location.pathname确定判断条件
+		if (location.pathname === "/zhangshuhao1116/"||location.pathname === "/zhangshuhao1116") { // 如果是主页，可在浏览器后台输入location.pathname确定判断条件
 			const now = new Date().getHours();
 			if (now > 5 && now <= 7) text = ["早上好！一日之计在于晨，美好的一天就要开始了。","早啊，叫醒你的是理想还是闹钟呢。"];
 			else if (now > 7 && now <= 11) text = "上午好！工作顺利嘛，不要久坐，多起来走动走动哦！";
