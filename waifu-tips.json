@@ -177,16 +177,16 @@
 		"selector": ".vcontent",
 		"text": ["哇，快看看这个精彩评论！", "如果有疑问，请尽快留言哦～"]
 	}, {
-		"selector": "a[href='https://msg.cnblogs.com/send/lrplrplrp']",
+		"selector": "a[href='https://msg.cnblogs.com/send/zhangshuhao1116']",
 		"text": ["要联系主人吗，他人超好的。"]
 	},  {
-		"selector": "a[href='https://www.cnblogs.com/lrplrplrp/']",
+		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116']",
 		"text": ["点击这里可以回到主页哦。"]
 	}, {
-		"selector": "a[href='https://www.cnblogs.com/lrplrplrp/p/16736674.html']",
+		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/p/14905863.html']",
 		"text": ["要给主人留言吗？"]
 	}, {
-		"selector": "a[href='https://www.cnblogs.com/lrplrplrp/p/16735052.html']",
+		"selector": "a[href='https://www.cnblogs.com/zhangshuhao1116/p/14919196.html']",
 		"text": ["主人的朋友们人也都很好哦","要见一见主人的朋友吗"]
 	}, {
 		"selector": "a[href='https://i.cnblogs.com/']",
@@ -202,7 +202,7 @@
 		"text": ["欢迎订阅(๑•̀ㅂ•́)و✧"]
 	}, {
 		"selector": ".notice_title",
-		"text": ["这里是公告"]
+		"text": ["这里是公告栏~"]
 	}, {
 		"selector": "#player",
 		"text": ["点这里可以放歌哦","这里全是主人精心挑选的音乐哦","要放松一下心情吗"]
@@ -245,181 +245,142 @@
 	}, {
 		"selector": "a[href='https://www.cnblogs.com/lrplrplrp/gallery.html']",
 		"text": ["要看看主人的相册吗？"]
-	}
-	 {
+	},{
             "selector": ".content-wrap a[href^='http']",
             "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
-        },
-        {
+        },{
+		"selector": ".author_avatar",
+		"text": ["这是主人的头像，一只康娜酱~","你问我主人为什么叫Shu-HowZ，大概是音译吧~","我家主人好看吗？", "这是我家主人(*´∇｀*)"]
+	},{
+		"selector": "a[href='https://blog-static.cnblogs.com/files/zhangshuhao1116/author.gif']",
+		"text": ["这是主人的头像，一只康娜酱~","你问我主人为什么叫Shu-HowZ，大概是音译吧~","我家主人好看吗？", "这是我家主人(*´∇｀*)"]
+	},{
             "selector": "#Header1_HeaderTitle",
             "text": ["点击前往首页，想回到上一页可以使用浏览器的后退功能哦"]
-        },
-        {
+        }, {
             "selector": "#green_channel_favorite",
             "text": ["觉得文章有帮助的话，可以收藏一下呢~"]
-        },
-		{
+        },{
             "selector": "#green_channel_digg",
             "text": ["觉得文章有帮助的话，可以推荐点赞一下呢~嘿嘿～|･ω･｀"]
-        },
-		
-        {
+        },{
             "selector": "#nav_next_page",
             "text": ["翻页比较麻烦吗，点击 导航栏-归档 就能显示全部随笔了呢~"]
-        },
-        {
+        },{
             "selector": "#portrait",
             "text": ["关注一下主人，就能快速知道博客有没有更新了呢~~"]
-        },
-        {
+        },{
             "selector": ".creativecommons",
             "text": ["转载前要先注意下文章的 版权协议 呢"]
-        },
-        {
+        },{
             "selector": ".comm",
             "text": ["想要去评论些什么吗？"]
-        },
-        {
+        }, {
             "selector": "#qrcode",
             "text": ["手机扫一下就能继续看，很方便呢"]
-        },
-        {
+        }, {
             "selector": "#postcomments",
             "text": ["要吐槽些什么呢？"]
-        },
-        {
+        },{
             "selector": ".rollto",
             "text": ["回到开始的地方吧"]
-        },
-        {
+        }, {
             "selector": "#inpName",
             "text": ["该怎么称呼你呢"]
-        },
-        {
+        }, {
             "selector": "#inpEmail",
             "text": ["留下你的邮箱，不然就是无头像人士了"]
-        },
-        {
+        },{
             "selector": "#inpHomePage",
             "text": ["你的家在哪里呢，好让我去参观参观"]
-        },
-        {
+        },{
             "selector": "#tbCommentBody",
             "text": ["认真填写哦，垃圾评论是禁止事项"]
-        },
-        {
+        },{
             "selector": ".OwO-logo",
             "text": ["要插入一个表情吗"]
-        },
-        {
+        },{
             "selector": ".ImageBox",
             "text": ["点击图片可以放大呢"]
-        },
-        {
+        }, {
             "selector": "#widget_my_zzk",
             "text": ["找不到想看的内容？搜索看看吧"]
-        },
-        {
+        },{
             "selector": ".paging",
             "text": ["去下一页看看吧"]
-        },
-        {
+        },{
             "selector": "#htmer_time",
             "text": ["已经过了这么久了呀，日子过得好快呢", "<span style=\"color:#0099cc;\">2021年5月19日</span> 是多久来着…<br>1，2，3……有好多好多天呢！"]
-        },
-        {
+        }, {
             "selector": ".updatelog",
             "text": ["这里记录着我搬家的历史呢"]
-        },
-        {
+        }, {
             "selector": ".aboutme",
             "text": ["发现主人出没地点！", "这里有主人的联系方式"]
-        },
-        {
+        }, {
             "selector": "#set_btn_box .set_btn gratuity",
             "text": ["主人最近在吃土呢，很辛苦的样子。给他一些钱钱吧~"]
-        },
-        {
+        }, {
             "selector": "#player .aplayer-body ap",
             "text": ["想要听点音乐吗"]
-        },
-        {
+        },{
             "selector": "#wenkmPlayer div.volume",
             "text": ["在这里可以调整<span style=\"color:#0099cc;\">音量</span>呢"]
-        },
-        {
+        }, {
             "selector": "#wenkmPlayer div.switch-playlist",
             "text": ["<span style=\"color:#0099cc;\">播放列表</span>里都有什么呢"]
-        },
-        {
+        },{
             "selector": "#wenkmPlayer div.switch-ksclrc",
             "text": ["有<span style=\"color:#0099cc;\">歌词</span>的话就能跟着一起唱呢"]
-        },
-        {
+        },{
             "selector": "#navbar-page-116",
             "text": ["要去大佬们的家看看吗？"]
-        },
-        {
+        }, {
             "selector": "#navbar-page-34",
             "text": ["有什么想说的吗？"]
-        },
-        {
+        },{
             "selector": "navbar-page-97",
             "text": ["这里都是主人的黑历史呢"]
-        },
-        {
+        },{
             "selector": "#navbar-page-31",
             "text": ["这里有一些关于我家主人的秘密哦，要不要看看呢"]
-        },
-        {
+        }, {
             "selector": ".waifu-tool .fui-home",
             "text": ["回首页看看吧！"]
-        },
-        {
+        }, {
             "selector": ".waifu-tool .fui-eye",
             "text": ["要切换看板娘吗？"]
-        },
-        {
+        }, {
             "selector": ".waifu-tool .fui-chat",
             "text": ["猜猜我要说些什么？"]
-        },
-        {
+        }, {
             "selector": ".waifu-tool .fui-user",
             "text": ["喜欢换装PLAY吗？"]
-        },
-        {
+        },{
             "selector": ".waifu-tool .fui-info-circle",
             "text": ["想要知道更多有关我的事吗？"]
-        },
-        {
+        }, {
             "selector": "#div_digg",
             "text": ["快给主人点个推荐吧～嘿嘿～|･ω･｀)"]
-        },
-        {
+        }, {
             "selector": "#ubb_img",
             "text": ["这里是插入图片的地方嗷~~"]
-        },
-        {
+        }, {
             "selector": "#ubb_bold",
             "text": ["这里能让评论的字体变粗嗷~~"]
-        },
-        {
+        }, {
             "selector": "#ubb_url",
             "text": ["这里是添加不明链接的的地方，请小心添加嗷~~"]
-        },
-        {
+        }, {
             "selector": "#ubb_code",
             "text": ["这里是添加代码的地方~只能显示，不能编译运行噢~"]
-        },
-        {
+        }, {
             "selector": "#ubb_quote",
             "text": ["这里添加引用嗷~~┗|｀O′|┛ "]
-        },
-        {
+        }, {
             "selector": "#btn_preview_comment",
             "text": ["点击这里预览你的评论嗷~~"]
-        },
-        {
+        }, {
             "selector": "#green_channel_follow",
             "text": ["好看的你，要不要关注一下同样好看的主人呢~~"]
         }
