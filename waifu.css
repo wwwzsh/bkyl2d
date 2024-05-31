@@ -4,7 +4,7 @@
 	border-radius: 5px;
 	bottom: 66px;
 	color: #fff;
-	cursor: pointer;
+	cursor: url(https://files.cnblogs.com/files/zhangshuhao1116/AlternateSelect-ezgif.com-resize.gif?t=1716651820&download=true),auto;
 	font-size: 12px;
 	left: 10px;
 	margin-left: -100px;
@@ -69,14 +69,14 @@
 }
 
 #live2d {
-	cursor: grab;
+	cursor: url(hhttps://files.cnblogs.com/files/zhangshuhao1116/Move-ezgif.com-resize.gif?t=1717164230&download=true),auto;
 	height: 300px;
 	position: relative;
 	width: 300px;
 }
 
 #live2d:active {
-	cursor: grabbing;
+	cursor: url(hhttps://files.cnblogs.com/files/zhangshuhao1116/Move-ezgif.com-resize.gif?t=1717164230&download=true),auto;
 }
 
 #waifu-tool {
@@ -95,7 +95,7 @@
 
 #waifu-tool span {
 	color:#5b6c7d;
-	cursor: pointer;
+	cursor: url(https://files.cnblogs.com/files/zhangshuhao1116/AlternateSelect-ezgif.com-resize.gif?t=1716651820&download=true),auto;
 	display: block;
 	line-height: 30px;
 	text-align: center;
@@ -103,7 +103,7 @@
 }
 
 #waifu-tool span:hover {
-	color: #0684bd; /* #34495e */
+	color: #0684bd;
 }
 
 @keyframes shake {
